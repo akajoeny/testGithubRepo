@@ -3,7 +3,7 @@
 ![logo](logo.png)
 
 Text about repository:
-[Link text] http://www.vg.no/
+[Link text](http://www.vg.no/)
 
 ## Second heading
 
