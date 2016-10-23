@@ -1,16 +1,20 @@
 # testGithubRepo
 
+![logo](logo.png)
+
 Text about repository
 
-# Second heading
+## Second heading
 
 Changes to be commited
 
-# Third heading
+### Third heading
 
 Changes to be added
 
-## text to be addded
+### text to be addded
+
+
 
 
 
